@@ -1,0 +1,20 @@
+body{
+    background: lightblue;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.New{
+    margin-left: 600px;
+}
+.Item{
+    display:inline-block;
+    padding: 10px;
+}
+
+.Pro{
+    display:inline-block;
+    padding: 10px;
+}
